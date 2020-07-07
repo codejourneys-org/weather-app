@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "CodeJourneys Weather APP",
+  "main": "index.js",
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "CodeJourneys",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
